@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnneBou
 - 👀 I’m interested in JavaScript, PHP and Symfony
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on open-source projects
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking for an internship
 - 📫 How to reach me : LinkedIn : Anne Bouaniche
 
 <!---
